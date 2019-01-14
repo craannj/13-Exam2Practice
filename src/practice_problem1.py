@@ -161,7 +161,11 @@ class Box(object):
         #    then read the file
         #       Read_this_ONLY_when_asked_Part_2.txt
         #    and complete your work on the problem.
-        # ---------------------------------------------------------------------
+        # -------------------------------------------------------------------
+        space = len(self.contents)
+
+
+
 
     def double(self):
         """
